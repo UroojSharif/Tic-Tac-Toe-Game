@@ -36,11 +36,9 @@ To set up the project on your machine, follow these steps:
    npm install
 
 4. Start the development server:
-  ```bash
+   ```bash
    npm run dev
-
-
 You can now play the game locally in your web browser!
 
-💡 Enjoy the Game!
+### 💡 Enjoy the Game!
 Dive into the nostalgic world of Tic Tac Toe and challenge your friends or family. Have fun!
