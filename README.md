@@ -5,7 +5,7 @@
 ### 🕹️ Get Started
 Jump right into the action! Click the button below to start your Tic Tac Toe adventure.
 
-[![Play Tic Tac Toe](link-to-your-image)](https://tic-tac-toe-game-mzvf.onrender.com)
+[![Play Tic Tac Toe](./src/assets/ss.png)](https://tic-tac-toe-game-mzvf.onrender.com)
 
 ### 🌟 Features
 - **Intuitive Gameplay**: Simple rules make it easy to pick up and play.
