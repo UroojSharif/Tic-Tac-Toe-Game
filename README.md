@@ -37,6 +37,8 @@ npm install
 4. Start the development server:
 ```bash
 npm run dev
+
+
 You can now play the game locally in your web browser!
 
 💡 Enjoy the Game!
