@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 Welcome to the Tic Tac Toe Game! This project is a modern twist on the classic Tic Tac Toe game, developed using React. It's designed for both fun and learning, perfect for players of all ages!
 
-🕹️ Get Started
+🕹️# Get Started
 Jump right into the action! Click the button below to start your Tic Tac Toe adventure.
 
 
