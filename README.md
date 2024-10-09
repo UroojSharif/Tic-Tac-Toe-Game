@@ -27,16 +27,17 @@ To set up the project on your machine, follow these steps:
    git clone git@github.com:UroojSharif/Tic-Tac-Toe-Game.git
    
 2. Navigate into the directory:
-3. ```bash
+   ```bash
    cd tic-tac-toe-react
 
 
-4. Install the dependencies:
-
-npm install
+3. Install the dependencies:
+   ```bash
+   npm install
 
 4. Start the development server:
-npm run dev 
+  ```bash
+   npm run dev
 
 
 You can now play the game locally in your web browser!
