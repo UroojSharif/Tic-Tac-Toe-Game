@@ -30,13 +30,13 @@ To set up the project on your machine, follow these steps:
 ```bash
 cd tic-tac-toe-react
 
-3.Install the dependencies:
+3. Install the dependencies:
 ```bash
 npm install
 
 4. Start the development server:
 ```bash
-npm run dev
+npm run dev ```
 
 
 You can now play the game locally in your web browser!
