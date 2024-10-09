@@ -28,7 +28,7 @@ To set up the project on your machine, follow these steps:
    
 2. Navigate into the directory:
    ```bash
-   cd tic-tac-toe-react
+   cd Tic-Tac-Toe-Game
 
 
 3. Install the dependencies:
